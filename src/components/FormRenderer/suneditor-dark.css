@@ -1,0 +1,28 @@
+.sun-editor .se-wrapper .se-wrapper-wysiwyg {
+  background-color: #1f1f1f !important;
+  color: #ffffff !important;
+  border: 1px solid #333 !important;
+}
+
+.sun-editor .se-toolbar {
+  background-color: #2c2c2c !important;
+  border-bottom: 1px solid #444 !important;
+}
+
+.sun-editor .se-wrapper {
+  background-color: #1f1f1f !important;
+  color: #ffffff !important;
+}
+
+.sun-editor .se-resizing-bar {
+  background-color: #2c2c2c !important;
+  border-top: 1px solid #444 !important;
+}
+
+/* 選單下拉 */
+.sun-editor .se-btn {
+  color: #ffffff !important;
+}
+.sun-editor .se-btn:hover {
+  background-color: #3a3a3a !important;
+}
