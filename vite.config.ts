@@ -6,7 +6,7 @@ dotenv.config();
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => {
   return {
-    base: mode === 'development' ? '/' : '/foodiefund-admin2/',
+    base: mode === 'development' ? '/' : '/staymi-admin/',
     plugins: [react()],
     resolve: {
       alias: {
